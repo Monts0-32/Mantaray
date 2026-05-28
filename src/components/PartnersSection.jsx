@@ -5,14 +5,11 @@ import { motion } from "framer-motion";
 // Add or remove partners by editing this list.
 // Each entry needs a "name" and an "logo" image URL.
 const partners = [
-  { name: "Balfour Beatty", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Balfour_Beatty_logo.svg/320px-Balfour_Beatty_logo.svg.png" },
-  { name: "Laing O'Rourke", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Laing_O%27Rourke_logo.svg/320px-Laing_O%27Rourke_logo.svg.png" },
-  { name: "Mace Group", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mace_Group_logo.svg/320px-Mace_Group_logo.svg.png" },
-  { name: "Skanska UK", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Skanska_logo.svg/320px-Skanska_logo.svg.png" },
-  { name: "Galliford Try", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Galliford_Try_logo.svg/320px-Galliford_Try_logo.svg.png" },
-  { name: "Kier Group", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kier_Group_logo.svg/320px-Kier_Group_logo.svg.png" },
-  { name: "Morgan Sindall", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Morgan_Sindall_logo.svg/320px-Morgan_Sindall_logo.svg.png" },
-  { name: "Bam Construct", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/BAM_logo.svg/320px-BAM_logo.svg.png" },
+  { name: "Canobbio", logo: "ui/canobbio.png" },
+  { name: "Carl", logo: "ui/carl.png" },
+  { name: "Sarna", logo: "ui/sarna-logo.png" },
+  { name: "Sika", logo: "ui/sika.png" },
+  { name: "Space", logo: "ui/space.png" },
 ];
 // ─────────────────────────────────────────────────────────────────────────────
 
