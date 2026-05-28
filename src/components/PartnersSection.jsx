@@ -1,15 +1,24 @@
 import React from "react";
 import { motion } from "framer-motion";
-
+import p1 from "./canobbio.png"; // Relative to the current file
+const canobbio = p1;
+import p2 from "./carl.png"; // Relative to the current file
+const carl = p2;
+import p3 from "./sarna-logo.png"; // Relative to the current file
+const sarna = p3;
+import p4 from "./sika.png"; // Relative to the current file
+const sika = p4;
+import p5 from "./space.png"; // Relative to the current file
+const space = p5;
 // ─── EDIT PARTNERS HERE ───────────────────────────────────────────────────────
 // Add or remove partners by editing this list.
 // Each entry needs a "name" and an "logo" image URL.
 const partners = [
-  { name: "Canobbio", logo: "src/components/ui/canobbio.png" },
-  { name: "Carl", logo: "src/components/ui/carl.png" },
-  { name: "Sarna", logo: "src/components/ui/sarna-logo.png" },
-  { name: "Sika", logo: "src/components/ui/sika.png" },
-  { name: "Space", logo: "src/components/ui/space.png" },
+  { name: "Canobbio", logo: canobbio },
+  { name: "Carl", logo: carl },
+  { name: "Sarna", logo: sarna },
+  { name: "Sika", logo: sika },
+  { name: "Space", logo: space },
 ];
 // ─────────────────────────────────────────────────────────────────────────────
 
