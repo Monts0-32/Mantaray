@@ -4,8 +4,8 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Layers, Shield, Ruler, Wrench } from "lucide-react";
 
-const SPEC_BG = "https://media.db.com/images/public/69ff7d727cc00baea69de533/c0391f449_generated_95e2352d.png";
-const DETAIL_IMG = "https://media.db.com/images/public/69ff7d727cc00baea69de533/a8e944fd0_generated_92e46b57.png";
+const SPEC_BG = "ui/special.png";
+const DETAIL_IMG = "ui/service.png";
 
 const specs = [
   {
