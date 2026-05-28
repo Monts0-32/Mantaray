@@ -4,7 +4,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { ChevronDown } from "lucide-react";
 
-const HERO_IMG = "https://media.db.com/images/public/69ff7d727cc00baea69de533/55b49abe7_generated_80ce73a1.png";
+const HERO_IMG = "ui/home.png";
 
 export default function Hero() {
   return (
