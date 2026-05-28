@@ -10,35 +10,35 @@ const DETAIL_IMG = "https://media.db.com/images/public/69ff7d727cc00baea69de533/
 const specs = [
   {
     icon: Layers,
-    title: "Structural Engineering",
+    title: "Installation",
     description:
-      "Advanced load-bearing framework design using reinforced concrete and structural steel for commercial and industrial buildings.",
-    metric: "50,000t+",
-    metricLabel: "Steel Erected",
+      "We offer a range of services such as: Project management, Method Statements, Risk Assessments, Carange and Plant, Lifting and Access Equipment, Specialist Riggers.",
+    metric: "",
+    metricLabel: "",
   },
   {
     icon: Shield,
-    title: "Foundation Systems",
+    title: "N/A",
     description:
-      "Deep foundation solutions including piling, underpinning, and ground improvement for complex soil conditions.",
-    metric: "1,200+",
-    metricLabel: "Piles Driven",
+      "",
+    metric: "",
+    metricLabel: "",
   },
   {
     icon: Ruler,
-    title: "Precision Formwork",
+    title: "N/A",
     description:
-      "Bespoke formwork and falsework systems engineered for architectural concrete finishes of the highest standard.",
-    metric: "180,000m²",
-    metricLabel: "Formwork Installed",
+      "",
+    metric: "",
+    metricLabel: "",
   },
   {
     icon: Wrench,
-    title: "Steel Fabrication",
+    title: "Industrial Abseiling",
     description:
-      "In-house CNC steel fabrication and erection capabilities delivering complex geometries with millimetre precision.",
-    metric: "Grade S355",
-    metricLabel: "Standard Steel",
+      "Mantaray offers a robust range of industrial solutions, specializing in structural inspections, testing, and comprehensive installations across construction projects. Their operational capabilities extend to routine maintenance, repairs, specialized cleaning, and painting, alongside integrated electrical and mechanical services. Supported by a full suite of access and lifting equipment, the team ensures high safety standards through the development of detailed method statements, rigorous risk assessments, and the delivery of thorough project reports.",
+    metric: "",
+    metricLabel: "",
   },
 ];
 
@@ -131,10 +131,10 @@ export default function Specializations() {
                 Technical Standard
               </div>
               <div className="font-heading font-bold text-primary text-lg">
-                ISO 9001:2015 Certified
+                I.R.A.T.A Certified
               </div>
               <p className="font-body text-muted-foreground text-sm mt-1">
-                All structural works comply with BS EN 1090 Execution Class 3
+                The engineers, technicians and tradesmen employed by Mantaray Tensile Structures all possess the ability to work safely at height, using abseiling and climbing skills. By avoiding the use of scaffolding or aerial platforms we have often generated significant cost savings for our clients.
               </p>
             </div>
           </motion.div>
