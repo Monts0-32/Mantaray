@@ -5,11 +5,11 @@ import { motion } from "framer-motion";
 // Add or remove partners by editing this list.
 // Each entry needs a "name" and an "logo" image URL.
 const partners = [
-  { name: "Canobbio", logo: "ui/canobbio.png" },
-  { name: "Carl", logo: "ui/carl.png" },
-  { name: "Sarna", logo: "ui/sarna-logo.png" },
-  { name: "Sika", logo: "ui/sika.png" },
-  { name: "Space", logo: "ui/space.png" },
+  { name: "Canobbio", logo: "src/components/ui/canobbio.png" },
+  { name: "Carl", logo: "src/components/ui/carl.png" },
+  { name: "Sarna", logo: "src/components/ui/sarna-logo.png" },
+  { name: "Sika", logo: "src/components/ui/sika.png" },
+  { name: "Space", logo: "src/components/ui/space.png" },
 ];
 // ─────────────────────────────────────────────────────────────────────────────
 
