@@ -1,14 +1,14 @@
 import React from "react";
 import { motion } from "framer-motion";
-import p1 from "./canobbio.png"; // Relative to the current file
+import p1 from "./ui/canobbio.png"; // Relative to the current file
 const canobbio = p1;
-import p2 from "./carl.png"; // Relative to the current file
+import p2 from "./ui/carl.png"; // Relative to the current file
 const carl = p2;
-import p3 from "./sarna-logo.png"; // Relative to the current file
+import p3 from "./ui/sarna-logo.png"; // Relative to the current file
 const sarna = p3;
-import p4 from "./sika.png"; // Relative to the current file
+import p4 from "./ui/sika.png"; // Relative to the current file
 const sika = p4;
-import p5 from "./space.png"; // Relative to the current file
+import p5 from "./ui/space.png"; // Relative to the current file
 const space = p5;
 // ─── EDIT PARTNERS HERE ───────────────────────────────────────────────────────
 // Add or remove partners by editing this list.
