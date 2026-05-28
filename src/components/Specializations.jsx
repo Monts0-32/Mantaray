@@ -62,14 +62,13 @@ export default function Specializations() {
             className="text-center px-6"
           >
             <span className="font-body text-white/50 text-xs tracking-[0.4em] uppercase">
-              Our Specialisations
+              MANTARAY
             </span>
             <h2 className="font-heading font-bold text-white text-4xl md:text-6xl mt-3">
-              Built with Precision
+              Our Services
             </h2>
             <p className="font-body text-white/60 text-lg mt-4 max-w-xl mx-auto">
-              Every structure we build is engineered to exceed the demands of
-              modern construction.
+              I.R.A.T.A Certified one of Europe's most experienced installation company.
             </p>
           </motion.div>
         </div>
