@@ -4,7 +4,8 @@ import React from "react";
 import { motion } from "framer-motion";
 import { ChevronDown } from "lucide-react";
 
-const HERO_IMG = "src/components/ui/home.png";
+import heroImg from "./ui/home.png"; // Relative to the current file
+const HERO_IMG = heroImg;
 
 export default function Hero() {
   return (
