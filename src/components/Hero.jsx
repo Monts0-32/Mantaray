@@ -31,7 +31,7 @@ export default function Hero() {
             MANTA
           </h1>
           <span className="font-body text-white/40 text-xs tracking-[0.4em] uppercase ml-1">
-            Specialised Construction
+            Tensile Structures
           </span>
         </motion.div>
 
@@ -43,9 +43,9 @@ export default function Hero() {
           className="flex flex-wrap gap-12 md:gap-20 justify-center"
         >
           {[
-            { value: "250+", label: "Projects Delivered" },
-            { value: "18", label: "Years of Excellence" },
-            { value: "£2.1B", label: "Portfolio Value" },
+            { value: "N/A", label: "N/A" },
+            { value: "24", label: "Years of Experience" },
+            { value: "N/A", label: "N/A" },
           ].map((stat) => (
             <div key={stat.label} className="text-center">
               <div className="font-heading font-bold text-white text-3xl md:text-5xl">
